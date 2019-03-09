@@ -1,27 +1,27 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<html lang="en-us">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>{{ .Title }}</title>
-	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.css">
+	<title>Categories</title>
+	
+	
+    <link rel="stylesheet" href="blog.mechaniclog.netcss/style.css">
+    <link rel="stylesheet" href="blog.mechaniclog.netcss/bootstrap.css">
     
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
-	{{ .Hugo.Generator }}
+	<link href="blog.mechaniclog.net/categories/index.xml" rel="feed" type="application/rss+xml" title="MechanicLog">
+	<meta name="generator" content="Hugo 0.47.1" />
 </head>
 <body>
 	<header>
 		<nav class="navbar navbar-dark bg-primary px-4 py-2">
-		    <a class="navbar-brand" href="{{ .Site.BaseURL }}">
-                <img class="navbar-brand-icon" src="/img/logo.png" /><h2 class="font-weight-bold">{{ .Site.Title }}</h2>
+		    <a class="navbar-brand" href="blog.mechaniclog.net">
+                <img class="navbar-brand-icon" src="/img/logo.png" /><h2 class="font-weight-bold">MechanicLog</h2>
             </a>
             
             <div class="float-md-right mx-auto mx-md-0 py-2 py-md-0 d-block">
@@ -29,3 +29,23 @@
             </div>
 		</nav>
 	</header>
+	<main class="container">
+        <div class="row">
+            <div class="col-12">
+
+
+                
+                
+                <div class="pt-4">
+    
+    1 of 0
+    
+</div>
+            </div>
+        </div>
+	</main>
+<footer class="text-center py-5">
+		<p><a href="https://mechaniclog.net" class="text-light">&copy; 2019 MechanicLog</a></p>
+	</footer>
+</body>
+</html>

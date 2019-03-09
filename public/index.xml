@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MechanicLog</title>
+    <link>blog.mechaniclog.net/</link>
+    <description>Recent content on MechanicLog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 Mar 2019 21:09:50 -0500</lastBuildDate>
+    
+	<atom:link href="blog.mechaniclog.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can I Run HIDs In My Halogen Headlights?</title>
+      <link>blog.mechaniclog.net/post/myths/hids-in-halogen-headlights/</link>
+      <pubDate>Fri, 08 Mar 2019 21:09:50 -0500</pubDate>
+      
+      <guid>blog.mechaniclog.net/post/myths/hids-in-halogen-headlights/</guid>
+      <description>Older vehicles, especially those from the 90s and older are plagued with dim halogen headlights. Dim headlights can make it a real challenge to drive at night, even more so for those who live out in the country.
+HID (high intensity discharge) headlights are an alternative to halogens and have become common in newer cars. If you&amp;rsquo;ve spent anytime behind the wheel you&amp;rsquo;ve likely seen them in action, and perhaps even envious of the extra light.</description>
+    </item>
+    
+  </channel>
+</rss>
