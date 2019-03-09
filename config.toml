@@ -1,0 +1,23 @@
+# hostname (and path) to the root eg. http://spf13.com/
+baseurl = "localhost"
+theme = "blank"
+title = "MechanicLog"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+# [menu]
+
+#     [[menu.main]]
+#         name = "MechanicLog.net"
+#         url = "https://mechaniclog.net"
+#         weight = -120
+
+#     [[menu.main]]
+#         name = "Tutorials"
+#         weight = -110
+
+#     [[menu.main]]
+#         name = "Development"
+#         weight = -100

@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+	<main class="container py-4">
+        <h1 class="display-4 border-bottom">Posts</h1>
+
+		{{ $paginator := .Paginate .Site.RegularPages }}
+		{{ range $paginator.Pages }}
+			{{ partial "summary.html" . }}
+		{{ end }}
+		{{ partial "pagination.html" . }}
+	</main>
+<!-- {{ partial "sidebar.html" . }} -->
+{{ partial "footer.html" . }}

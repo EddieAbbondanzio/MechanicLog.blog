@@ -1,0 +1,33 @@
+.navbar-brand img {
+    height: 48px;
+    width: 48px;
+    display: inline-block;
+}
+
+.navbar-brand h2 {
+    display: inline-block;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: #212529;
+}

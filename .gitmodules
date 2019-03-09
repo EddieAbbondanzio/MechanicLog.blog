@@ -1,0 +1,3 @@
+[submodule "blank"]
+	path = blank
+	url = ./themes/blank
