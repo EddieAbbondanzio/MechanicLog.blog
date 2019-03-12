@@ -4,7 +4,7 @@ theme = "blank"
 title = "MechanicLog"
 
 [params]
-description = "Vehicle maintenance And car culture blog. Passionate about cars? You've come to the right place."
+description = "Vehicle maintenance and car culture blog. Passionate about cars? You've come to the right place."
 
 [taxonomies]
     tag = "tags"
