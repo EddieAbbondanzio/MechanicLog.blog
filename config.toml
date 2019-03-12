@@ -2,6 +2,7 @@
 baseurl = "http://blog.mechaniclog.net/"
 theme = "blank"
 title = "MechanicLog"
+description = "Vehicle maintenance And car culture blog. Passionate about cars? You've come to the right place."
 
 [taxonomies]
     tag = "tags"
