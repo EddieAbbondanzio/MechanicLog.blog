@@ -2,6 +2,7 @@
 title: "Can I Run HIDs In My Halogen Headlights?"
 date: 2019-03-08T21:09:50-05:00
 draft: false
+tags: ['HIDs', 'Mods', 'Myths']
 ---
 
 <img src="/img/post/myths/hids-in-halogen-headlights/glare.jpg">

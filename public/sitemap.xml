@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.mechaniclog.net/post/misc/diesel-in-a-gas-car/</loc>
+    <loc>http://blog.mechaniclog.net/post/what-if/diesel-in-a-gas-car/</loc>
     <lastmod>2019-03-10T21:09:50-05:00</lastmod>
   </url>
   
@@ -18,8 +18,32 @@
   </url>
   
   <url>
+    <loc>http://blog.mechaniclog.net/tags/diesel/</loc>
+    <lastmod>2019-03-10T21:09:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mechaniclog.net/tags/hids/</loc>
+    <lastmod>2019-03-08T21:09:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.mechaniclog.net/</loc>
     <lastmod>2019-03-10T21:09:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mechaniclog.net/tags/mods/</loc>
+    <lastmod>2019-03-08T21:09:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mechaniclog.net/tags/myths/</loc>
+    <lastmod>2019-03-08T21:09:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,6 +55,13 @@
   
   <url>
     <loc>http://blog.mechaniclog.net/tags/</loc>
+    <lastmod>2019-03-10T21:09:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mechaniclog.net/tags/what-if/</loc>
+    <lastmod>2019-03-10T21:09:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,11 +1,11 @@
 ---
-title: "What Happens If Diesel Is Put Into A Gas Car?"
+title: "What If Diesel Is Put Into A Gas Car?"
 date: 2019-03-10T21:09:50-05:00
 draft: false
+tags: ['Diesel', 'What-If']
 ---
 
-<img src="/img/post/misc/diesel-in-a-gas-car/1.jpg" >
-
+<img src="/img/post/what-if/diesel-in-a-gas-car/1.jpg" >
 A local gas station recently had a delivery screw up causing diesel fuel to be dumped into the gasoline tanks that supplied their fuel pumps. The station was quick to catch the mistake, but not before a few unlucky commuters had a nasty surprise.
 
 While delivery mistakes are fairly uncommon, it’s not unheard of for a driver to accidentally fill up their vehicle with the wrong fuel. Even though diesel pumps are different in color and size, and diesel gives off a different smell it still happens.

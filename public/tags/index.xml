@@ -5,9 +5,55 @@
     <link>http://blog.mechaniclog.net/tags/</link>
     <description>Recent content in Tags on MechanicLog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Mar 2019 21:09:50 -0500</lastBuildDate>
     
 	<atom:link href="http://blog.mechaniclog.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diesel</title>
+      <link>http://blog.mechaniclog.net/tags/diesel/</link>
+      <pubDate>Sun, 10 Mar 2019 21:09:50 -0500</pubDate>
+      
+      <guid>http://blog.mechaniclog.net/tags/diesel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hids</title>
+      <link>http://blog.mechaniclog.net/tags/hids/</link>
+      <pubDate>Fri, 08 Mar 2019 21:09:50 -0500</pubDate>
+      
+      <guid>http://blog.mechaniclog.net/tags/hids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mods</title>
+      <link>http://blog.mechaniclog.net/tags/mods/</link>
+      <pubDate>Fri, 08 Mar 2019 21:09:50 -0500</pubDate>
+      
+      <guid>http://blog.mechaniclog.net/tags/mods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myths</title>
+      <link>http://blog.mechaniclog.net/tags/myths/</link>
+      <pubDate>Fri, 08 Mar 2019 21:09:50 -0500</pubDate>
+      
+      <guid>http://blog.mechaniclog.net/tags/myths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What If</title>
+      <link>http://blog.mechaniclog.net/tags/what-if/</link>
+      <pubDate>Sun, 10 Mar 2019 21:09:50 -0500</pubDate>
+      
+      <guid>http://blog.mechaniclog.net/tags/what-if/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

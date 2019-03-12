@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on MechanicLog</title>
-    <link>http://blog.mechaniclog.net/post/</link>
-    <description>Recent content in Posts on MechanicLog</description>
+    <title>What If on MechanicLog</title>
+    <link>http://blog.mechaniclog.net/tags/what-if/</link>
+    <description>Recent content in What If on MechanicLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 10 Mar 2019 21:09:50 -0500</lastBuildDate>
     
-	<atom:link href="http://blog.mechaniclog.net/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.mechaniclog.net/tags/what-if/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       <guid>http://blog.mechaniclog.net/post/what-if/diesel-in-a-gas-car/</guid>
       <description>A local gas station recently had a delivery screw up causing diesel fuel to be dumped into the gasoline tanks that supplied their fuel pumps. The station was quick to catch the mistake, but not before a few unlucky commuters had a nasty surprise.
 While delivery mistakes are fairly uncommon, it’s not unheard of for a driver to accidentally fill up their vehicle with the wrong fuel. Even though diesel pumps are different in color and size, and diesel gives off a different smell it still happens.</description>
-    </item>
-    
-    <item>
-      <title>Can I Run HIDs In My Halogen Headlights?</title>
-      <link>http://blog.mechaniclog.net/post/myths/hids-in-halogen-headlights/</link>
-      <pubDate>Fri, 08 Mar 2019 21:09:50 -0500</pubDate>
-      
-      <guid>http://blog.mechaniclog.net/post/myths/hids-in-halogen-headlights/</guid>
-      <description>Older vehicles, especially those from the 90s and older are plagued with dim halogen headlights. Dim headlights can make it a real challenge to drive at night, even more so for those who live out in the country.
-HID (high intensity discharge) headlights are an alternative to halogens and have become common in newer cars. If you&amp;rsquo;ve spent anytime behind the wheel you&amp;rsquo;ve likely seen them in action, and perhaps even envious of the extra light.</description>
     </item>
     
   </channel>
